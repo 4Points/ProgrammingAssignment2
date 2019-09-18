@@ -1,7 +1,7 @@
 ## Coursera R Programming Assignment #2
 ## Invert a matrix and cache the result so that future inverses can use the cached result if possible
 
-## Invert an input matrix and cache the result
+## Create the matrix cache
 
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
